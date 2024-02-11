@@ -95,7 +95,9 @@ button {
     }
 
     .logo_img {
-        margin: 40px;
+        margin: 30px;
+        width: 90px;
+        height: 20px;
     }
 
     h1 {
